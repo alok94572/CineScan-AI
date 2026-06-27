@@ -1,1 +1,0 @@
-# CineScan-AI
